@@ -1,0 +1,43 @@
+div.Q1-1 {
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+  }
+
+div.Q1-2 {
+    margin: auto;
+    text-align: center;
+    width:60%
+  }
+
+div.Q1-4 {
+    column-count: 2; 
+    column-width: 50px
+    column-gap: 50px;
+  }
+div.Q1-5 {
+    column-count: 3; 
+    column-width: 50px
+    column-gap: 50px;
+    column-rule-style: dotted;
+    column-rule-width: 5px;
+    column-rule-color: black;
+}
+
+div.kt {
+    display: inline-block;
+    width: 100%;
+  }
+
+img[src="https://cdn.lynda.com/course/578057/578057-637039345373871726-16x9.jpg"] {
+    max-width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+li {
+    width: 70%;
+    margin: auto;
+}
